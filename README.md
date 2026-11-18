@@ -1,4 +1,4 @@
-# mapsdata-ai
+# MapsData
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,107 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-mapsdata-ai is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://mapsdata.ai/
+MapsData provides a Google Maps based lead generation service, delivering verified business email addresses, phone numbers, websites, and ratings across the US, Canada, the UK, and Australia. Users can select business types and locations to receive curated lists for outreach, with a free trial offering 500 verification credits and paid plans starting at $15/month. The platform emphasizes data accuracy, compliance with Google’s terms, and offers API access for automated integration.
+
+**Areas:** Company · Lead Generation · Google Maps · Email Scraping · B2B · API
+
+## MapsData on APIs.io
+
+Everything profiled for MapsData is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/mapsdata-ai/](https://apis.io/providers/mapsdata-ai/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [MapsData API](https://apis.io/apis/mapsdata-ai/mapsdata-api/) — Google Maps Scraper API providing lead generation endpoints.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [MapsData Authentication](https://apis.io/security/mapsdata-ai/mapsdata-ai-authentication/)
+- [MapsData Domain Security](https://apis.io/security/mapsdata-ai/mapsdata-ai-domain-security/)
+- [MapsData Vulnerability Disclosure](https://apis.io/security/mapsdata-ai/mapsdata-ai-vulnerability-disclosure/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [MapsData Plans Pricing](https://apis.io/plans/mapsdata-ai/mapsdata-ai-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [MapsData Rate Limits](https://apis.io/rate-limits/mapsdata-ai/mapsdata-ai-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://mapsdata.ai/)
+- [Documentation](https://mapsdata.ai/guides)
+- [Getting started](https://mapsdata.ai/api-mcp)
+- [Pricing](https://mapsdata.ai/pricing)
+- [Changelog](https://mapsdata.ai/changelog)
+- [Security](https://mapsdata.ai/contact)
+- [Terms of service](https://mapsdata.ai/terms)
+- [Privacy policy](https://mapsdata.ai/privacy)
+
+## API Evangelist rating
+
+**Kin Score 34.2** — thin · rubric 0.28.0 · scored 2026-11-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 76.8 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 49.5 |
+| Developer ergonomics | 33.3 |
+| Access clarity | 59.1 |
+
+**Agent readiness 24.3** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 25.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/mapsdata-ai/](https://apis.io/providers/mapsdata-ai/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for MapsData: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/mapsdata-ai/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
